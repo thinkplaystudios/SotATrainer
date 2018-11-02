@@ -1,7 +1,7 @@
 # SotATrainer
 SotA Trainer is a utility that provides combat statistics for players of Shroud of the Avatar.
 
-To use the utility, simply unzip the file to any folder location you prefer, and run the utility
+To use the utility, simply unzip (7z file) the file to any folder location you prefer, and run the utility
 while running the Shroud of the Avatar game client.
 
 You can drag the utility to any location in the visible game screen, it will remain visible
